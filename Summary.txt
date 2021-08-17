@@ -1,0 +1,3 @@
+We started with downloading the dataset, preprocessing it, created the model and found out the predictions using the model.
+During preprocessing we found that this dataset has 43 classes. 
+Model reached an accuracy of 95%+ in just 50 epochs, we can further optimize the model using hyper parameter tuning and reach a higher accuracy. 
